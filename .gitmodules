@@ -1,0 +1,6 @@
+[submodule "FaceRecognitionLibrary"]
+	path = FaceRecognitionLibrary
+	url = git@github.com:ageitgey/face_recognition.git
+[submodule "GhostFaceNets"]
+	path = GhostFaceNets
+	url = https://github.com/HamadYA/GhostFaceNets
